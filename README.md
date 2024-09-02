@@ -174,12 +174,12 @@
             Here,the user can manage his tasks that are to be carried throughout the day.<br>
           </p>
           
-          <a href="https://github.com/user/project1">View on GitHub</a>
+          <a href="https://github.com/kanaderuhi/codsoft_task1js">View on GitHub</a>
         </li>
         <li>
           <h2>Project 2</h2>
           <p>This project is a digital clock that updates in real time</p>
-          <a href="https://github.com/user/project2">View on GitHub</a>
+          <a href="https://github.com/kanaderuhi/codsoft_task2js">View on GitHub</a>
         </li>
       </ul>
     </section>
